@@ -11,7 +11,15 @@
     padding: 1rem;
 }
 #btn-prime{
-    margin-top: 2rem;
+    margin:auto;
     
     display: block;
+}
+#output-box{
+    border: 1px solid black;
+    width: 80%;
+    height: 10vh;
+    margin: auto;
+    padding: 1rem;
+    border-radius: 10px;
 }
