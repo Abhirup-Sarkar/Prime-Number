@@ -1,5 +1,7 @@
 var primeInput = document.querySelector("#btn-prime");
 
+
+
 function clickHandler(){
     console.log("clicked!")
 }
