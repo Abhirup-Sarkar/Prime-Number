@@ -1,0 +1,26 @@
+
+.hero-heading{
+    text-align: center;
+}
+#input-box{
+    width: 80%;
+    height:10vh;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: auto;
+    padding: 1rem;
+    display: block;
+}
+#btn-prime{
+    margin:auto;
+    
+    display: block;
+}
+#output-box{
+    border: 1px solid black;
+    width: 80%;
+    height: 10vh;
+    margin: auto;
+    padding: 1rem;
+    border-radius: 10px;
+}
